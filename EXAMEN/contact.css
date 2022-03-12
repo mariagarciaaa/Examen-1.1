@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin:0;
+
+}
+h1{
+	text-align:center;
+	background: black;
+	color:#b1f2b4;
+	padding: 30px
+}
+nav ul{
+	background-color: #b1f2b4;
+	width:100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	display:inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color:black;
+	padding:10px;
+	width:150p
+}
+.article{
+	color: black;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-bottom: 3px solid #eee;
+	width: calcc(80%-88px);
+}
